@@ -31,7 +31,12 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/>
  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black"/>  
    
+   
+ **개인 프로젝트**  
+ 1. 네이버 공연예매페이지 프로젝트 개발
+ 2. 캠핑용품 쇼핑몰 프로젝트 
+   
 **참여 프로젝트**
-  1. 청주이통장넷 홈페이지 권한 페이지 
+  1. 청주이통장넷 홈페이지 권한 페이지 수정
  
 
