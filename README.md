@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 **기술스택**  
   <img src="https://img.shields.io/badge/-JAVA-A8B9CC?style=flat-square&logo=Java&logoColor=Red"/>
-  <img src="https://img.shields.io/badge/-Spring-A8B9CC?style=flat-square&logo=Spring&logoColor=Red"/>
-  <img src="https://img.shields.io/badge/-Spring Security-#6DB33F?style=flat-square&logo=Spring Security&logoColor=Red"/>
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=Red"/>
+  <img src="https://img.shields.io/badge/-Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=Red"/>
 
