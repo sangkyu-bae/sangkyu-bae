@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+💻 fullStack Developer
+👩‍🎓 Hannam Univ. Computer Science
 
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
+
+###기술스택 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
