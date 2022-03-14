@@ -38,6 +38,6 @@ Here are some ideas to get you started:
    
 **참여 프로젝트**
   * 1. 청주이통장넷 홈페이지 유지보수 프로젝트
-    * 1-1. 권한에 따른 페이지 
+
  
 
