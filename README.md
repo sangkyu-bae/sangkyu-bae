@@ -28,6 +28,7 @@ Here are some ideas to get you started:
  
   
 **Sub SKill**    
+ <img alt="net" src ="https://img.shields.io/badge/.net-3776AB.svg?&style=for-the-badge&logo=.net&logoColor=white"/>
  <img src="https://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=black"/>
  <img src="https://img.shields.io/badge/React-007396?style=flat-square&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/>
