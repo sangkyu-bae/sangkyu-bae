@@ -38,6 +38,8 @@ Here are some ideas to get you started:
  **개인 프로젝트**  
  1. 네이버 공연예매페이지 프로젝트 개발(reserveproject)
  2. 캠핑용품 쇼핑몰 프로젝트 (healthproject)
+ 3. 스터디 모임 프로젝트
+ 4. 이미지 뷰어 프로젝트
    
 **참여 프로젝트**
   * 1. 청주이통장넷 홈페이지 유지보수 프로젝트
