@@ -40,6 +40,7 @@ Here are some ideas to get you started:
  2. 캠핑용품 쇼핑몰 프로젝트 (healthproject)
  3. 스터디 모임 프로젝트
  4. 이미지 뷰어 프로젝트
+ 5. 웹 인력사무소 프로젝트(expertpeople)
    
 **참여 프로젝트**
   * 1. 청주이통장넷 홈페이지 유지보수 프로젝트
