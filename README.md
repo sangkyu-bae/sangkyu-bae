@@ -41,10 +41,10 @@ Here are some ideas to get you started:
  3. 이미지 뷰어 프로젝트
 
  **진행중 개인 프로젝트**  
-  1. 웹 인력사무소 프로젝트(expertpeople)
+ 1. 웹 인력사무소 프로젝트(expertpeople)
   
 **수강 강의**  
-  1.스프링과 JPA 기반 웹 애플리케이션 개발(인프런)
+ 1. 스프링과 JPA 기반 웹 애플리케이션 개발(인프런)
   
 **현재 참여 프로젝트**
   * 1. 저궤도위성 형상관리 및 품질관리 시스템 고도화(JPA,Thymeleaf)
