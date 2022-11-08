@@ -48,11 +48,11 @@ Here are some ideas to get you started:
   
 **현재 참여 프로젝트**
   * 1. 저궤도위성 형상관리 및 품질관리 시스템 고도화(JPA,Thymeleaf)
-  * 2. 정지궤도위성 이미지 뷰어 프로젝트(Asp.net,React)
   
 **참여한 프로젝트**
   * 1. 청주이통장넷 홈페이지 유지보수 (mybatis,jsp)
   * 2. 합천군 직원소통시스템 유지보수 (mybatis,jsp)
+  * 3. 정지궤도위성 이미지 뷰어 프로젝트(Asp.net,React)
 
  
 
