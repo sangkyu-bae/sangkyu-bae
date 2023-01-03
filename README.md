@@ -44,9 +44,6 @@ Here are some ideas to get you started:
  **진행중 개인 프로젝트**  
 
   
-**수강 강의**  
- 1. 스프링과 JPA 기반 웹 애플리케이션 개발(인프런)
-  
 **현재 참여 프로젝트**
   * 1. 품질경영시스템 형상관리 및 품질관리 모듈 개발(JPA,Thymeleaf)
   * 2. 저궤도위성 이상감지 시스템(JPA,React)
