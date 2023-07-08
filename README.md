@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 BackEnd Developer  
+💻 Backend Developer  
 👩‍🎓 Hannam Univ. Computer Science
 
 
@@ -42,18 +42,20 @@ Here are some ideas to get you started:
  
 
  **진행중 개인 프로젝트**  
-    1. 쇼핑몰 프로젝트 (e-commerce)
+1. 쇼핑몰 프로젝트 (e-commerce)
     
 **현재 참여 프로젝트**
   * 1. 선박 탐지 프로젝트
   * 2. 품질경영시스템 유지보수
   
 **참여한 프로젝트**
-  * 1. 청주이통장넷 홈페이지 유지보수 (mybatis,jsp)
-  * 2. 합천군 직원소통시스템 유지보수 (mybatis,jsp)
+  * 1. 저궤도위성 이상감지 시스템(JPA,React)
+  * 2. 품질경영시스템 형상관리 및 품질관리 모듈 개발(JPA,Thymeleaf)
   * 3. 정지궤도위성 이미지 뷰어 프로젝트(spring,React)
-  * 4. 품질경영시스템 형상관리 및 품질관리 모듈 개발(JPA,Thymeleaf)
-  * 5. 저궤도위성 이상감지 시스템(JPA,React)
+  * 4. 합천군 직원소통시스템 유지보수 (mybatis,jsp)
+  * 5. 청주이통장넷 홈페이지 유지보수 (mybatis,jsp)
+
+
 
  
 
