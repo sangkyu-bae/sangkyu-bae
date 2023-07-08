@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 fullStack Developer  
+💻 BackEnd Developer  
 👩‍🎓 Hannam Univ. Computer Science
 
 
